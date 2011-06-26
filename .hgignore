@@ -1,2 +1,5 @@
 pw-annotations/nbproject/private
 
+telnet-handler/nbproject/private
+telnet-handler/build/
+telnet-handler/dist
